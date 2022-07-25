@@ -1,6 +1,6 @@
 # 研究室アカウントへようこそ！
 
-このアカウントは芝浦工業大学　土木工学科　[都市環境設計研究室](http://www.db.shibaura-it.ac.jp/~oyama/index.html)　のGitアカウントです
+このアカウントは　[芝浦工業大学 土木工学科 都市環境設計研究室](http://www.db.shibaura-it.ac.jp/~oyama/index.html)　のGitアカウントです
 
 研究室内にて開発されたモデルやツールを公開しています
 
